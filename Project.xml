@@ -2,5 +2,6 @@
   <codeStyleSettings language="JAVA">
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="KEEP_MULTIPLE_EXPRESSIONS_IN_ONE_LINE" value="true" />
+	    <option name="CALL_PARAMETERS_WRAP" value="5" />
   </codeStyleSettings>
 </code_scheme>
